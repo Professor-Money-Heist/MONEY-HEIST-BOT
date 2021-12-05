@@ -34,8 +34,8 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brlacked)](https://t.me/MoneyHeist_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blankred)](https://t.me/moneyheist_userbot_channel)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blackred)](https://t.me/MoneyHeist_Userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blackred)](https://t.me/moneyheist_userbot_channel)
 
 ------
 ## YouTube 📺
