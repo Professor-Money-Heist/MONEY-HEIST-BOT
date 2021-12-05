@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $LEGEND_REPO == "LEGENDBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
     elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
     elif [[ $LEGEND_REPO =~ $regex ]]
     then
         if [[ $LEGEND_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${LEGEND_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
     fi
 }
 
