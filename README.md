@@ -34,14 +34,11 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MoneyHeist_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/moneyheist_userbot_channel)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MM_Userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_userbot_channel)
 
-------
-## YouTube 📺
-
-      `NO VIDEO YET`
-------------
+--------------------
+      
 <h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Blue-OS/MONEY-HEIST-BOT)
