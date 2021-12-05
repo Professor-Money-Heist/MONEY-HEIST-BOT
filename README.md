@@ -48,29 +48,6 @@
 
 [![Deploy](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://heroku.com/deploy?template=https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
-## Deploy Locally
-
-- Clone the repo. 
-
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
-- Open Cloned Folder.
-
-`cd LEGENDUSERBOT`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate Legend STRING.
-
-`python LegendString.py`
-- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
-
-`bash ./LEGENDBOT/start.sh`
 
 ---------
 
@@ -107,18 +84,6 @@
     - String will be saved in your Saved Message.
 
 
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-LegendBot/LEGENDUSERBOT/LegendBot/LegendString.py && python3 LegendString.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
-
-
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
@@ -137,7 +102,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [MONEY-HEIST-BOT](https://github.com/Blue-OS/MONEY-HEIST-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
