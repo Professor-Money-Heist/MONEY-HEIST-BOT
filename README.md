@@ -5,7 +5,7 @@
 [![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>💰MONEY HEIST USERBOT💰</b>
 </h6>
 
 <p align="center">
@@ -76,7 +76,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
