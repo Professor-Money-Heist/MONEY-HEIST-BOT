@@ -51,31 +51,6 @@
 
 ---------
 
-## Variables
-
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `TUTORIAL_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
-
-------
-### Repl
-
-
-    -To Get Details Of StringSession Follow Step: 
-
-    - Go To Telegram And Search @UseTGXBot
-    - Click Start
-    - Send Ur Phone Number To @UseTGXBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
-    - Copy Ur Code
-    - Paste Ur Code in @UseTGXBot
-    - U Received APP ID
-    - Now Run StringSession Given Below:
-   
-
 [![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
