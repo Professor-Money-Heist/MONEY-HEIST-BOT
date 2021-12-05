@@ -30,7 +30,7 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Blue-OS/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT?"></a>
 
 ------
 ## Telegram 🏪
