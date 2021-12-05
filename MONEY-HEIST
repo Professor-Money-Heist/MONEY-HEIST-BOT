@@ -3,19 +3,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    if [[ $HEIST_REPO == "HEISTBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    elif [[ $HEIST_REPO == "HEISTBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
     elif [[ $LEGEND_REPO =~ $regex ]]
     then
-        if [[ $LEGEND_REPO_BRANCH ]]
+        if [[ $HEIST_REPO_BRANCH ]]
         then
-            echo "${LEGEND_REPO}/archive/${LEGEND_REPO_BRANCH}.zip"
+            echo "${HEIST_REPO}/archive/${HEIST_REPO_BRANCH}.zip"
         else
-            echo "${LEGEND_REPO}/archive/master.zip"
+            echo "${HEIST_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
@@ -26,17 +26,17 @@ _get_repolink () {
 _setting_bot () {
     local zippath
     zippath="LegendBot.zip"
-    echo "  Downloading LegendBot V3.O Source Code..."
+    echo "  Downloading MoneyHeistBot V3.O Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    HESITPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LegendBot V3.O Cleaning.."
+    echo "  Money HeistBot V3.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
-    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
+    cd $HEISTPATH
+    echo "    ⚜️Starting MONEYHEIST BOT⚜️     "
     echo "
     🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
     "
