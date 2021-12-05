@@ -1,12 +1,12 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "Money-Heist-Userbot",
+  "description": "Spanish Most Popular Webseries Inspired India's First Userbot ... ❤ ",
+  "logo": "https://te.legra.ph/file/522ed4911518f4b7f51eb.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "Money-Heist-Userbot",
     "modular",
     "productivity"
   ],
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "PROFESSOR AGORA",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "BELLA CIAO BELLA CIAO",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@MoneyHeist_Userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@Moneyheist_LegendBot_Channel",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -140,7 +140,7 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "PROFESSOR_AGORA_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
