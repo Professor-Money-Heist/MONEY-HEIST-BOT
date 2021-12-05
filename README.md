@@ -40,7 +40,7 @@
 ------
 ## YouTube 📺
 
-      ``NO VIDEO YET``
+      `NO VIDEO YET`
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
