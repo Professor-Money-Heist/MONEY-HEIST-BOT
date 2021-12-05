@@ -53,6 +53,8 @@
 
 <h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
+[![Agora String](https://www.replit.com/repl/button.svg)]
+
 [![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
