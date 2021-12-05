@@ -2,7 +2,7 @@
 <b> 『★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://www.bing.com/images/search?view=detailV2&ccid=8QFSDKwR&id=237E3C871FBFF32277A15D28080CDBBCE386FB37&thid=OIP.8QFSDKwRbO7MsveIxmjfpgHaD9&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f101520cac116ceeccb2f788c668dfa6%3frik%3dN%252fuG47zbDAgoXQ%26riu%3dhttp%253a%252f%252fsonkonews.com%252fwp-content%252fuploads%252f2020%252f10%252fhacker-jig.jpg%26ehk%3dZcVTWas9TBhPM8SALzm9RcuxkfHQNr9iQ2zAU7xJOFE%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=808&expw=1512&q=HACKER+IMG&simid=608014159222611742&FORM=IRPRST&ck=889A6D349BF8E41CB00C313D1E460350&selectedIndex=0)](https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
