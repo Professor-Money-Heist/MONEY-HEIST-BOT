@@ -46,7 +46,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Blue-OS/MONEY-HEIST-BOT)
 
-[![Deploy](https://telegra.ph/file/a3e2855eeeab00df25892.jpg)](https://heroku.com/deploy?template=https://github.com/Blue-OS/MONEY-HEIST-BOT)
+[![Deploy](https://telegra.ph/file/d8b34e339581c5108fdc2.jpg)](https://heroku.com/deploy?template=https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 
 ---------
