@@ -77,8 +77,8 @@
 - `app id`
 - `app hash`
 - `phone number`
--`code`
--`done`
+- `code`
+- `done`
 
 ### Repl
 
