@@ -28,12 +28,12 @@
 </p>
 
 ------
-## Status Of Bot 
+## 🆂🆃🅰🆃🆄🆂 🅾🅵 🅱🅾🆃 ## 
 <p align="left">
     <a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Blue-OS/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT?"></a>
 
 ------
-## Telegram 🏪
+## ★彡[ᴛᴇʟᴇɢʀᴀᴍ]彡★ 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/MoneyHeist_Userbot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/moneyheist_userbot_channel)
 
@@ -42,6 +42,9 @@
 
       `NO VIDEO YET`
 ------------
+      
+      
+### ★彡[ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ]彡★ ###
 <h3> Dєρℓογ το нєяοκυ </h3>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Professor-Money-Heist/MONEY-HEIST-BOT)
