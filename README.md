@@ -69,7 +69,9 @@
 `@Legend_StringSessionbot`
 `@Legend_StringSessionbot`
 `u can also use repl`
+- `-To Get Details Of StringSession Follow Step:`
 - `@Legend_StringSessionbot`
+- `Go To Telegram And Search fo r@Legend_StringSessionbot `
 - `Start bot`
 - `Now fill`
 - `app id`
@@ -81,16 +83,8 @@
 ### Repl
 
 
-    -To Get Details Of StringSession Follow Step: 
-
-    - Go To Telegram And Search @UseTGXBot
-    - Click Start
-    - Send Ur Phone Number To @UseTGXBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
-    - Copy Ur Code
-    - Paste Ur Code in @UseTGXBot
-    - U Received APP ID
-    - Now Run StringSession Given Below:
+    - Click on the pic
+    -for repl
    
 
 [![String](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
