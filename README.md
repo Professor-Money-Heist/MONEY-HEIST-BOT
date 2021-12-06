@@ -65,18 +65,18 @@
 
 ------
 ##🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽##
-For generating 🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽 please use
-@Legend_StringSessionbot
-@Legend_StringSessionbot
-u can also use repl
--@Legend_StringSessionbot
--Start bot
--Now fill
--app id
--app hash
--phone number
--code
--done
+#For generating 🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽 please use#
+`@Legend_StringSessionbot`
+`@Legend_StringSessionbot`
+`u can also use repl`
+- `@Legend_StringSessionbot`
+- `Start bot`
+- `Now fill`
+- `app id`
+- `app hash`
+- `phone number`
+-`code`
+-`done`
 
 ### Repl
 
