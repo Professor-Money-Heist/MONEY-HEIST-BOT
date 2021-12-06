@@ -1,94 +1,56 @@
 <h1 align="center">
-<b> 『★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★』🇮🇳 </b>
+<b> 💰『★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ-ʙᴏᴛ]彡★』💰 </b>
 </h1>
 
-[![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT)
+[![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 <h6 align="center">
-  <b>⚡ 🅼🅾🅽🅴🆈-🅷🅴🅸🆂🆃🅱🅾🆃 Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>💰MONEY HEIST USERBOT💰</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Professor-Money-Heist/MONEY-HEIST-BOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Professor-Money-Heist/MONEY-HEIST-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Professor-Money-Heist/MONEY-HEIST-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Professor-Money-Heist/MONEY-HEIST-BOT?color=success" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Professor-Money-Heist/MONEY-HEIST-BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Blue-OS/MONEY-HEIST-BOT?color=success" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Professor-Money-Heist/MONEY-HEIST-BOT" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Blue-OS/MONEY-HEIST-BOT" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
-## 🆂🆃🅰🆃🆄🆂 🅾🅵 🅱🅾🆃 ## 
+## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Professor-Money-Heist/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Professor-Money-Heist/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT?"></a>
+    <a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Blue-OS/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT?"></a>
 
 ------
-## ★彡[ᴛᴇʟᴇɢʀᴀᴍ]彡★ 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/MoneyHeist_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/moneyheist_userbot_channel)
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MM_Userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_userbot_channel)
 
-------
-## YouTube 📺
-
-      `NO VIDEO YET`
-------------
+--------------------
       
-      
-### ★彡[ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ]彡★ ###
-<h3> Dєρℓογ το нєяοκυ </h3>
+<h3> 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨</h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Professor-Money-Heist/MONEY-HEIST-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Blue-OS/MONEY-HEIST-BOT)
 
-[![Deploy](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT)
+[![Deploy](https://telegra.ph/file/d8b34e339581c5108fdc2.jpg)](https://heroku.com/deploy?template=https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 
 ---------
 
-## Variables
+<h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `TUTORIAL_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
-
-------
-##🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽##
-#For generating 🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽 please use#
-`@Legend_StringSessionbot`
-`@Legend_StringSessionbot`
-`u can also use repl`
-- `-To Get Details Of StringSession Follow Step:`
-- `@Legend_StringSessionbot`
-- `Go To Telegram And Search fo r@Legend_StringSessionbot `
-- `Start bot`
-- `Now fill`
-- `app id`
-- `app hash`
-- `phone number`
-- `code`
-- `done`
-
-### Repl
-
-
-    - Click on the pic
-    -for repl
-   
-
-[![String](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
-
+[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -112,9 +74,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
 
-Poject [MONEY-HEIST-BOT](https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT) is free software: you can redistribute it and/or modify
+
+Poject [MONEY-HEIST-BOT](https://github.com/Blue-OS/MONEY-HEIST-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
