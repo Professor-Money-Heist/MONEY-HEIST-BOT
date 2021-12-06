@@ -64,6 +64,20 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
+##🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽##
+For generating 🆂🆃🆁🅸🅽🅶 🆂🅴🆂🆂🅸🅾🅽 please use
+@Legend_StringSessionbot
+@Legend_StringSessionbot
+u can also use repl
+-@Legend_StringSessionbot
+-Start bot
+-Now fill
+-app id
+-app hash
+-phone number
+-code
+-done
+
 ### Repl
 
 
@@ -79,7 +93,8 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+
 
     - Click On Generate String
     - Then Click On Green Run Button.
