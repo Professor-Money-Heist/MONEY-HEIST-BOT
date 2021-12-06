@@ -44,9 +44,9 @@
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Blue-OS/MONEY-HEIST-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dhrubamoy/Professor-Money-Heist/MONEY-HEIST-BOT)
 
-[![Deploy](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://heroku.com/deploy?template=https://github.com/Blue-OS/MONEY-HEIST-BOT)
+[![Deploy](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://heroku.com/deploy?template=https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT)
 
 
 ---------
