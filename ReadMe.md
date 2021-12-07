@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 💰『★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ-ʙᴏᴛ]彡★』💰 </b>
+<b> 💰『★彡[𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧]彡★』💰 </b>
 </h1>
 
 [![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Blue-OS/MONEY-HEIST-BOT)
 
 <h6 align="center">
-  <b>💰MONEY HEIST USERBOT💰</b>
+  <b>💰𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧💰</b>
 </h6>
 
 <p align="center">
