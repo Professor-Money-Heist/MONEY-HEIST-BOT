@@ -1,1 +1,1 @@
-worker: bash Moneyheistbot
+worker: bash MONEY-HEIST-BOT
