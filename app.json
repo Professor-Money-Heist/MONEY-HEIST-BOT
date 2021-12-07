@@ -38,11 +38,6 @@
       "value": "",
       "required" :true
     },
-    "SPAM": {
-      "description": "Set ON or OFF",
-      "value": "",
-      "required" :true
-    },
     "ASSISTANT": {
       "description": "Set ON or OFF",
       "value": "",
