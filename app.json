@@ -1,7 +1,7 @@
 {
   "name": "MONEY-HEIST-BOT",
   "description": "BOT IS MADE FOR TRENDING GENERATION STYLISH YOUNG ROCKSTAR BOYS AND GIRLS❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "logo": "https://te.legra.ph/file/55439ff56c02d4d022e22.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -19,13 +19,13 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is AGORA User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "description": "Fill your Full name. By default it is Money Heist User",
+      "value": "",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "description": "Set Custom Alive Message When entering .alive Or .Professor  Command.",
+      "value": "MONEY HEIST BOT IS ALIVE",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@mm_userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@mm_ub_updates",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "I AM STUDENT OF PROF AGORA.",
       "required": true
     },
     "PM_PIC": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "Hi Mr/Miss I am Glad to see you here i am money heist bot and my master is busy rightnow dont spam until my master come back onlime!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running  ",
       "value": ""
     },
     "HEROKU_API_KEY": {
