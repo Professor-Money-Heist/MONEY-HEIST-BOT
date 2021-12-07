@@ -1,21 +1,21 @@
 {
-  "name": "Money-Heist-bot",
+  "name": "MONEY-HEIST-BOT",
   "description": "Spanish Most Popular Webseries Inspired India's First Userbot ... ❤ ",
   "logo": "https://te.legra.ph/file/522ed4911518f4b7f51eb.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "Money-Heist-Userbot",
+    "Money-Heist-Bot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/",
+  "website": "https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/",
+  "success_url": "https://t.me/MM_USERBOT",
   "env": {
     "ENV": {
-      "description": "Set this to ANYTHING will enable heroku.",
+      "description": "Set this to your will enable heroku.",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
@@ -24,7 +24,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "description": "Set Custom Alive Message When entering .alive Or .Agora  Command.",
       "value": "BELLA CIAO BELLA CIAO",
       "required": false
     },
@@ -50,13 +50,19 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@MoneyHeist_Userbot",
+      "value": "@MM_Userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Moneyheist_LegendBot_Channel",
+      "value": "@MM_UB_UPDATES",
       "required": false
+      },
+    "SPAM_CHANNEL": {
+      "description": "Leave it Default Username",
+      "value": "@MM_UB_SPAM",
+      "required": true
+      
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl",
@@ -90,7 +96,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "I am part Of MONRYHEIST"
       "required": true
     },
     "PM_PIC": {
@@ -141,7 +147,7 @@
       "value": ""
     }, 
     "PROFESSOR_AGORA_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running @sessiongeneratorbot ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -163,23 +169,23 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In Agora Command default 7",
       "value": "7",
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In Agora Command default 2",
       "value": "2",
       "required": true
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💰",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💰",
       "required": false
     },
     "PM_DATA": {
