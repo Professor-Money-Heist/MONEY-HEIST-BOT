@@ -52,7 +52,7 @@
 
 - [![PROFESSOR STRING](https://img.shields.io/badge/PROFESSOR-STRING-red)](https://t.me/SESSIONGENERATORBOT)
 
-[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://t.me/Session_Generator_bot) 
+[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://t.me/SessionGeneratorbot) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
