@@ -30,12 +30,12 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Blue-OS/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Blue-OS/MONEY-HEIST-BOT?"></a>
+    <a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/network/members"><img src="https://img.shields.io/github/forks/Professor-Money-Heist/MONEY-HEIST-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/stargazers"><img src="https://img.shields.io/github/stars/Professor-Money-Heist/MONEY-HEIST-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT"></a><p align="left"><a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT?"></a>
 
 ------
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/MM_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_userbot_channel)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/mm_ub_updates)
 
 --------------------
       
@@ -50,7 +50,9 @@
 
 <h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
-[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+- [![PROFESSOR STRING](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/SESSIONGENERATORBOT)
+
+[![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://t.me/Session_Generator_bot) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -61,7 +63,7 @@
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- TutorialBot was made for fun purpose and to make group management easier.
+- MoneyHeistbot was made for trending dynamic teenage rockstar boys and young cute girls.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -76,7 +78,7 @@
 
 
 
-Poject [MONEY-HEIST-BOT](https://github.com/Blue-OS/MONEY-HEIST-BOT) is free software: you can redistribute it and/or modify
+Poject [MONEY-HEIST-BOT](https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
