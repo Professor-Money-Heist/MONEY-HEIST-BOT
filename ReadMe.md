@@ -50,7 +50,7 @@
 
 <h3> 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗣𝗜𝗖 𝗧𝗢 𝗚𝗘𝗧 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 𝗦𝗧𝗥𝗜𝗡𝗚</h3>
 
-- [![PROFESSOR STRING](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/SESSIONGENERATORBOT)
+- [![PROFESSOR STRING](https://img.shields.io/badge/PROFESSOR-STRING-red)](https://t.me/SESSIONGENERATORBOT)
 
 [![String](https://telegra.ph/file/acb8e76f54ad62d14fcf2.jpg)](https://t.me/Session_Generator_bot) 
 
