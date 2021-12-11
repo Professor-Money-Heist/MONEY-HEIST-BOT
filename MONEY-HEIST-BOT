@@ -15,7 +15,7 @@ _get_repolink () {
         then
             echo "${MONEY-HEIST_REPO}/archive/${MONEY-HEIST_REPO_BRANCH}.zip"
         else
-            echo "${MONEY-HEIST_REPO}/archive/Legendbot.zip"
+            echo "${MONEY-HEIST_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
