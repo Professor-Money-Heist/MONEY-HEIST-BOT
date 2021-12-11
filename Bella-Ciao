@@ -3,22 +3,22 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $Professor-Money-Heist_REPO == "MONEY-HEIST-BOT" ]]
+    if [[ $MONEY-HEIST_REPO == "MONEY-HEIST-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
-    elif [[ $professor-Money-Heist_REPO == "MONEY-HEIST-BOT" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
+    elif [[ $MONEY-HEIST_REPO == "MONEY-HEIST-BOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
-    elif [[ $Professor-Money-Heist_REPO =~ $regex ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
+    elif [[ $MONEY-HEIST_REPO =~ $regex ]]
     then
-        if [[ $Professor-Money-Heist_REPO_BRANCH ]]
+        if [[ $MONEY-HEIST_REPO_BRANCH ]]
         then
-            echo "${Ptofessor-Money-Heist_REPO}/archive/${Professor-Money-Heist_REPO_BRANCH}.zip"
+            echo "${MONEY-HEIST_REPO}/archive/${MONEY-HEIST_REPO_BRANCH}.zip"
         else
-            echo "${Professor-Money-Heist_REPO}/archive/master.zip"
+            echo "${MONEY-HEIST_REPO}/archive/LegendBot.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0JsdWUtT1MvTU9ORVktQk9ULVBHL2FyY2hpdmUvbGVnZW5kYm90LnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
     fi
 }
 
