@@ -1,1 +1,1 @@
-worker: bash MONEY-HEIST-BOT
+worker: bash Bella-Ciao
