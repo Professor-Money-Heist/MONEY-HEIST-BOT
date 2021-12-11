@@ -25,7 +25,7 @@ _get_repolink () {
 
 _setting_bot () {
     local zippath
-    zippath="Bella-Ciao.zip"
+    zippath= MONEY-HEIST.zip"
     echo "  Downloading Money Hesit Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
