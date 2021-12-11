@@ -15,7 +15,7 @@ _get_repolink () {
         then
             echo "${MONEY-HEIST_REPO}/archive/${MONEY-HEIST_REPO_BRANCH}.zip"
         else
-            echo "${MONEY-HEIST_REPO}/archive/MONEY-HEIST-BOT.zip"
+            echo "${MONEY-HEIST_REPO}/archive/Legendbot.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
@@ -29,13 +29,13 @@ _setting_bot () {
     echo "  Downloading Money Hesit Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    Bella-CiaoPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo " Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $Bella-CiaoPATH
+    cd $LEGENDPATH
     echo "    💰Starting💰.  "
     echo "
     🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️
