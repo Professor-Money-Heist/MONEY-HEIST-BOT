@@ -25,14 +25,14 @@ _get_repolink () {
 
 _setting_bot () {
     local zippath
-    zippath= MONEY-HEIST.zip"
-    echo "  Downloading Money Hesit Source Code..."
+    zippath= MONEY-HEIST-BOT.zip"
+    echo "  Downloading MONEY-HEIST-BOT V3.0 Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    MONEY-HEISTPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    MONEY-HEIST-BOTPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo " Cleaning.."
+    echo " MONEY-HEIST-BOT V3.O Cleaning...."
     rm -rf "$zippath"
     sleep 5
     cd $MONEY-HEISTPATH
@@ -45,4 +45,4 @@ _setting_bot () {
     python3 -m userbot
 }
 
-_setting_bot
+_setting_bot nnn
