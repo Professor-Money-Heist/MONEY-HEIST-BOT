@@ -29,13 +29,13 @@ _setting_bot () {
     echo "  Downloading Money Hesit Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    MONEY-HEISTPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo " Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
+    cd $MONEY-HEISTPATH
     echo "    💰Starting💰.  "
     echo "
     🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️
