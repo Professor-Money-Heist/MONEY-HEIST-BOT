@@ -1,1 +1,1 @@
-worker: bash Bella-Ciao
+worker: bash MONEY
