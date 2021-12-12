@@ -3,19 +3,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MONEY-HEIST_REPO == "MONEY-HEIST-BOT" ]]
+    if [[ $MONEY_REPO == "MONEYBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
-    elif [[ $MONEY-HEIST_REPO == "MONEY-HEIST-BOT" ]]
+    elif [[ $MONEY_REPO == "MONEYBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
-    elif [[ $MONEY-HEIST_REPO =~ $regex ]]
+    elif [[ $MONEY_REPO =~ $regex ]]
     then
-        if [[ $MONEY-HEIST_REPO_BRANCH ]]
+        if [[ $MONEY_REPO_BRANCH ]]
         then
-            echo "${MONEY-HEIST_REPO}/archive/${MONEY-HEIST_REPO_BRANCH}.zip"
+            echo "${MONEY_REPO}/archive/${MONEY_REPO_BRANCH}.zip"
         else
-            echo "${MONEY-HEIST_REPO}/archive/master.zip"
+            echo "${MONEY_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1Byb2Zlc3Nvci1Nb25leS1IZWlzdC9NT05FWS1CT1QtUEcvYXJjaGl2ZS9MZWdlbmRCb3Quemlw" | base64 -d
@@ -25,20 +25,20 @@ _get_repolink () {
 
 _setting_bot () {
     local zippath
-    zippath= MONEY.zip"
-    echo "  Downloading MONEY-HEIST-BOT V3.0 Source Code..."
+    zippath="MONEY.zip"
+    echo "  Downloading Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    MONEYPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo " MONEY-HEIST-BOT V3.O Cleaning...."
+    echo " Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $MONEYPATH
-    echo "    💰Starting💰.  "
+    cd $LEGENDPATH
+    echo "    ⚜️Starting⚜️     "
     echo "
-    🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️🤍❤️
+    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
