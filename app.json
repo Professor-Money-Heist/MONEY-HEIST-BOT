@@ -65,17 +65,17 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/d5b6ad471bd5877b0bff0.mp4",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/55439ff56c02d4d022e22.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://te.legra.ph/file/a2e60104fc9eb207f6641.mp4",
       "required": false
     },
     "ALIVE_PIC": {
@@ -85,7 +85,7 @@
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
+      "value": "💰",
       "required": false
     },
     "BIO_MSG": {
@@ -95,7 +95,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://te.legra.ph/file/ce8b8e62cd807f75a1653.jpg",
       "required": false
     },
     "PM_MSG": {
@@ -174,12 +174,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💰",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💰",
       "required": false
     },
     "PM_DATA": {
