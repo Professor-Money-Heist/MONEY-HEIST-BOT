@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Money Heist User",
-      "value": "",
+      "value": "𝙼𝙾𝙽𝙴𝚈 𝙷𝙴𝙸𝚂𝚃 𝙱𝙾𝚃 𝚄𝚂𝙴𝚁",
       "required": false
     },
     "ALIVE_MSG": {
