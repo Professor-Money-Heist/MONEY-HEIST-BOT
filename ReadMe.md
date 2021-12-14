@@ -100,9 +100,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 </details>
 
-nn
- n <summary> • 💡 CREDITS 💞 • </summary>
-nn
+
+  <summary> • 💡 CREDITS 💞 • </summary>
+
   <a href="https://t.me/@toxic_than_toxiest"><img src="https://img.shields.io/badge/𝗠𝗿 𝗦𝗨𝗝𝗔𝗟_%20-orange.svg?style=for-the-badge&logo=Telegram"></a>
   
  <a href="https://t.me/@awe_some21"><img src="https://img.shields.io/badge/𝗠𝗿•𝗢𝗠𝗜%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
