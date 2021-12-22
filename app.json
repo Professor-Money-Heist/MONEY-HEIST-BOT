@@ -124,12 +124,12 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": "/",
+      "value": ",",
       "required": false
     },
     "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": "$",
+      "value": ".",
       "required": true
       },
     "API_HASH": {
