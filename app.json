@@ -110,7 +110,7 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here.",
-      "value": "",
+      "value": "-651355392",
       "required": true
     },
     "APP_ID": {
@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-651355392"
     }, 
     "PROFESSOR_STRING": {
       "description": "Get this value by running  ",
