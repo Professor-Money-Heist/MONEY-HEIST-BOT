@@ -30,22 +30,22 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
-      "description": "Set ON or OFF",
-      "value": "",
+      "description": "Set ON or OFF"
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -109,8 +109,8 @@
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "description": "Create a private channel. And get it's id from @missrose_bot and paste here.",
+      "value": "-651355392",
       "required": true
     },
     "APP_ID": {
@@ -119,17 +119,17 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
+      "value": "2105506225",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": ",",
+      "value": "/",
       "required": false
     },
     "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
+      "value": "$",
       "required": true
       },
     "API_HASH": {
@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-651355392"
     }, 
     "PROFESSOR_STRING": {
       "description": "Get this value by running  ",
