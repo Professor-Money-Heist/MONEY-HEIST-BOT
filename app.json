@@ -30,22 +30,22 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -80,7 +80,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://te.legra.ph/file/ce8b8e62cd807f75a1653.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
