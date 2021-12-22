@@ -30,22 +30,22 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "ON",
+      "value": "",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "ON",
+      "value": "",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "ON",
+      "value": "",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF"
-      "value": "ON",
+      "value": "",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -110,7 +110,7 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here.",
-      "value": "-651355392",
+      "value": "",
       "required": true
     },
     "APP_ID": {
@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": "-651355392"
+      "value": ""
     }, 
     "PROFESSOR_STRING": {
       "description": "Get this value by running  ",
