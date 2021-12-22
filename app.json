@@ -44,7 +44,7 @@
       "required" :true
     },
     "ASSISTANT": {
-      "description": "Set ON or OFF"
+      "description": "Set ON or OFF",
       "value": "",
       "required" :true
     },
