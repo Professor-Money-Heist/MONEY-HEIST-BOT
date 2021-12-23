@@ -2,18 +2,18 @@
 <b> 💰『★彡[𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧]彡★』💰 </b>
 </h1>
 
-[![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Blue-OS/MONEY-HEIST-BOT)
+[![★彡[ᴍᴏɴᴇʏ-ʜᴇɪꜱᴛ_ʙᴏᴛ]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT)
 
 <h6 align="center">
   <b>💰𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧💰</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Blue-OS/MONEY-HEIST-BOT?color=success" /> </a>
-<a href="https://github.com/Blue-OS/MONEY-HEIST-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Blue-OS/MONEY-HEIST-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Blue-OS/MONEY-HEIST-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Blue-OS/MONEY-HEIST-BOT?color=success" /> </a>
+<a href="https://github.com/Professor-Money-Heist/MONEY-HEIST-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Professor-Money-Heist/MONEY-HEIST-BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
